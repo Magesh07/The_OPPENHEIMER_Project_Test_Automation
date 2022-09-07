@@ -22,6 +22,9 @@
 Clone repository from here(https://github.com/Magesh07/The_OPPENHEIMER_Project_Test_Automation.git) from master branch or download zip and set it up in your local workspace. 
 Update Maven Project By navigating to Right-click on the Project->Maven->UpdateProject->Ok
 
+Run the Oppenheimer Project App from the below link,
+https://github.com/strengthandwill/oppenheimer-project-dev
+
 Run the Tests :
 Windows->Preferences->Java->Installed JREs->Select the JDK as per the below screenshot(Only JDK should be mapped)
 
